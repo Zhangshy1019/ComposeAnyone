@@ -1,6 +1,6 @@
 <div align="center">
 <h1>ComposeAnyone: Controllable Layout-to-Human Generation with Decoupled Multimodal Conditions</h1>
-<div>
+</div>
 **ComposeAnyone** is capable of generating high-quality human images with decoupled multimodal conditions, such as captions, reference images, and hand-drawn layouts.
 
 ---
